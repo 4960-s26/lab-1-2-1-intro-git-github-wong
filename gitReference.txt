@@ -1,0 +1,10 @@
+git add (filename)
+git commit -m (message)
+git status
+git push
+git merge (file name to merge into current branch)
+git clone
+git fakeTeamwork
+git branch
+
+We were able to passed topics 1-3 in introduction sequences and 3-6 for push and pull
